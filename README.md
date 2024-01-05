@@ -1,3 +1,5 @@
-### Hi there 👋
+### Hi I'm Himanshu kumar and I'm a Frontend Developer 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshu-Rajkumar)](https://github.com/Himanshu-Rajkumargithub-readme-stats)
+<img alt="My stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Rajkumar&show_icons=true" />
+
+<img alt="My stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Rajkumar&layout=compact" />
