@@ -1,11 +1,10 @@
 # Himanshu Kumar
 
-👋 Hello there! I'm Himanshu Kumar, a passionate Frontend Developer based in Hazaribag, Jharkhand. I specialize in crafting user-friendly web interfaces using HTML5, CSS3, and JavaScript.
+👋 Hello there! I'm Himanshu Kumar, a passionate Full Stack Developer  based in Hazaribag, Jharkhand. I specialize in crafting user-friendly web interfaces using MERN stack .
 
 ## Professional Summary
 
-Results-oriented Frontend Developer with a proven ability to adapt to changing project requirements and stay updated on emerging frontend development trends. Quick learner with expertise in HTML5, CSS3, and JavaScript.
-
+Results-oriented Full Stack Developer with a proven ability to adapt to changing project requirements and stay updated on emerging MERN development trends. 
 ## Projects
 
 ### Music Album
@@ -31,22 +30,21 @@ Results-oriented Frontend Developer with a proven ability to adapt to changing p
 ## Work Experience
 
 ### Prepleaf by Masai School
-**Frontend Developer | Masai School**
+**MERN Stack Developer | Masai School**
 *Jun 2023 - Present*
-- Developed over 20 diverse projects, showcasing proficiency in frontend development and problem-solving skills.
+- Developed over 20 diverse projects, showcasing proficiency in MERN development and problem-solving skills.
 - Projects range from a Bank Account Management System to essential tools like Calculator, Todo List, Stopwatch, and Timer.
 
-### Veena General Store
-**Retail Operations Coordinator**
-*June 2016 - Present (7+ years)*
-- Over 7 years of dedicated experience managing a successful retail establishment.
-- Proven track record of delivering exceptional customer service and efficient inventory control.
 
 ## Education
 
+**Manipal University Jaipur**
+*Jaipur, Rajisthan*
+*2024 - Present*
+
 **Career Accelerator Program**
 *Prepleaf by Masai, Bengaluru*
-*Jun 2023 - Present*
+*Jun 2023 - 2025*
 
 **Bachelor of Science**
 *Inter Science College*
@@ -54,20 +52,18 @@ Results-oriented Frontend Developer with a proven ability to adapt to changing p
 
 ## Technical Skills
 
-- HTML5 | CSS3 | JavaScript
-- Node.js | Git
-- Responsive Web Design
+- React.js | Node.js | Express.js | MongoDB | 
+
 
 ## Soft Skills
 
-- Teamwork | Adaptability | Effective Communication
+- Teamwork | Adaptability | Effective Communication 
 
 ## Interests
 
 - Coding, especially for making websites.
 - Martial arts and fitness.
 - Listening to informative podcasts on YouTube.
-
 ## Contact
 
 - 📞 +91-9135972298
